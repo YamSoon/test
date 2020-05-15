@@ -18,6 +18,10 @@ button {
     font-family: helvetica;
 }
 
+a  {
+    font-family: helvetica;
+}
+
 body {
-    background-color: thistle;
+    background-color: rgb(248, 237, 217);
 }
