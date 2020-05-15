@@ -1,0 +1,23 @@
+
+
+p {
+    font-family: helvetica;
+}
+
+h1 {
+    font-family: helvetica;
+    font-size: x-large;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: large;
+}
+
+button {
+    font-family: helvetica;
+}
+
+body {
+    background-color: thistle;
+}
