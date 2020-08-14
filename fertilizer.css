@@ -2,14 +2,3 @@ body {
     background-color: antiquewhite;
     
 }
-
-urlImg {
-    width:724px;
-    height:407px;
-    display:block;
-    background-image: url('https://i.ibb.co/PjM12wM/green.png');
-  }
-
-urlImg:hover {
-    background-image: url('https://i.ibb.co/gJskMW6/yellow.png');
-  }
