@@ -1,12 +1,6 @@
 body {
     background-color: antiquewhite;
+    position: center;
 
 }
-
-.center {
-    display: block;
-    margin-left: center;
-    margin-right: center%;
-    width: 50%;
-  }
 
