@@ -3,10 +3,10 @@ body {
 
 }
 
-.center {
+p {
     display: block;
     margin-left: 50%;
     margin-right: 50%;
-    width: 50%%;
+    width: 50%;
   }
 
