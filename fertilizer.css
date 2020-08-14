@@ -3,10 +3,10 @@
     width: 724px;
     height: 407px;
     background: url(https://i.ibb.co/PjM12wM/green.png) no-repeat;
-    -webkit-transition: all .1s ease-in-out;
-    -moz-transition: all .1s ease-in-out;
-    -o-transition: all .1s ease-in-out;
-    transition: all .1s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+    transition: all .7s ease-in-out;
 }
 
 .rollover:hover {
