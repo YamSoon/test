@@ -15,6 +15,35 @@
         .mobiletwo {position: absolute;top: 6in;left: 0.1in}
         .mobilethree{position: absolute;top: 9in;left: 1.5in}
         .bones {position: absolute; top: 2800px; left: 3.3in}
+
+        .exit {
+        background-color: #ffff;
+        border-radius: 20px;
+        border: none;
+        color: #ffffff;
+        cursor: pointer;
+        display: inline-block;
+        position: absolute;
+        top:2970px;
+        right: 30px;
+      }
+      @keyframes glowing {
+        0% {
+          background-color: #ffff;
+          box-shadow: 0 0 5px #ffff;
+        }
+        50% {
+          background-color: #ffff;
+          box-shadow: 0 0 20px #ffff;
+        }
+        100% {
+          background-color: #ffff;
+          box-shadow: 0 0 5px #ffff;
+        }
+      }
+      .exit {
+        animation: glowing 1300ms infinite;
+      }
         
         </style>
   </head>  
@@ -41,6 +70,10 @@
         <img src="https://i.ibb.co/VY53J3d/IMG-5831.png" alt="bones" width="17%">
         </div>
     
+    <a class="exit" href="bones">
+        <div style= "width: 10px; height: 10px; background-color: #ffff;"
+            ></div>   
+    </a>
 
     </body>
 
